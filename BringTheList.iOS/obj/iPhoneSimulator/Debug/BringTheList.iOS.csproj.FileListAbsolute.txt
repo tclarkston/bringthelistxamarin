@@ -46,15 +46,17 @@
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/bin/iPhoneSimulator/Debug/BringTheList.pdb
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/ibtool/_BundleResourceWithLogicalName.items
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_PartialAppManifest.items
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_BundleResourceWithLogicalName.items
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_PartialAppManifest.items
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_BundleResourceWithLogicalName.items
-/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/optimized/
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/BringTheList.iOS.csprojAssemblyReference.cache
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/BringTheList.iOS.csproj.CoreCompileInputs.cache
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/BringTheList.iOS.csproj.CopyComplete
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/BringTheList.iOS.exe
 /Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/BringTheList.iOS.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/bin/iPhoneSimulator/Debug/Plugin.FilePicker.dll
+/Users/todd/source/misc/BringTheList/BringTheList.iOS/bin/iPhoneSimulator/Debug/Plugin.FilePicker.pdb

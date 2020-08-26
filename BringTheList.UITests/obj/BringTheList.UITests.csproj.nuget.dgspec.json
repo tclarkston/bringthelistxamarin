@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/todd/source/misc/BringTheList/BringTheList.UITests/BringTheList.UITests.csproj": {}
+    "/Users/todd/development/BringTheListXamarin/BringTheList.UITests/BringTheList.UITests.csproj": {}
   },
   "projects": {
-    "/Users/todd/source/misc/BringTheList/BringTheList.UITests/BringTheList.UITests.csproj": {
+    "/Users/todd/development/BringTheListXamarin/BringTheList.UITests/BringTheList.UITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/todd/source/misc/BringTheList/BringTheList.UITests/BringTheList.UITests.csproj",
+        "projectUniqueName": "/Users/todd/development/BringTheListXamarin/BringTheList.UITests/BringTheList.UITests.csproj",
         "projectName": "BringTheList.UITests",
-        "projectPath": "/Users/todd/source/misc/BringTheList/BringTheList.UITests/BringTheList.UITests.csproj",
+        "projectPath": "/Users/todd/development/BringTheListXamarin/BringTheList.UITests/BringTheList.UITests.csproj",
         "packagesPath": "/Users/todd/.nuget/packages/",
-        "outputPath": "/Users/todd/source/misc/BringTheList/BringTheList.UITests/obj/",
+        "outputPath": "/Users/todd/development/BringTheListXamarin/BringTheList.UITests/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

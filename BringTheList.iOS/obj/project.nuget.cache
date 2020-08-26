@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sIDSDA01+c9tKy2OROLx0aewYlef07nxVk0UENJvcFjAKiviBJf9XVFN7wSczrt1jsmTEo33ogA5eUfkDms+7Q==",
+  "dgSpecHash": "ySXqpik2DalAp7Iz43+6DZUbqH7cZ0Lk6JCCHkjiXwJN9Yrjvrq2jPFW6dQVSoC/dTHotqn1PI8DrAwtdo4IJQ==",
   "success": true,
-  "projectFilePath": "/Users/todd/source/misc/BringTheList/BringTheList.iOS/BringTheList.iOS.csproj",
+  "projectFilePath": "/Users/todd/development/BringTheListXamarin/BringTheList.iOS/BringTheList.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/todd/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/todd/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
     "/Users/todd/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512",
+    "/Users/todd/.nuget/packages/xamarin.plugin.filepicker/2.1.41/xamarin.plugin.filepicker.2.1.41.nupkg.sha512",
     "/Users/todd/.nuget/packages/xamarin.testcloud.agent/0.21.9/xamarin.testcloud.agent.0.21.9.nupkg.sha512"
   ],
   "logs": []

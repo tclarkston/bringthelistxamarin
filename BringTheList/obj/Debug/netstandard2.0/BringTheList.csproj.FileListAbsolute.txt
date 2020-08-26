@@ -13,3 +13,6 @@
 /Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.pdb
 /Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
 /Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.csprojAssemblyReference.cache
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/Xamarin.Mac.dll
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/Xamarin.Mac.pdb
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.csproj.CopyComplete
