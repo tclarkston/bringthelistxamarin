@@ -1,0 +1,27 @@
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/BringTheList.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/BringTheList.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/actool/_PartialAppManifest.items
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/ibtool/Main.storyboardc/Document Window Controller.nib
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/ibtool/Main.storyboardc/5gI-5U-AMq-view-ERx-hH-rdd.nib
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/BringTheList.MacOS.csprojAssemblyReference.cache
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/BringTheList.MacOS.csproj.CoreCompileInputs.cache
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/BringTheList.MacOS.csproj.CopyComplete
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/BringTheList.MacOS.exe
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/BringTheList.MacOS.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/BringTheList.MacOS.exe
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/BringTheList.MacOS.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Xamarin.Forms.Core.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Xamarin.Forms.Platform.macOS.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/obj/Debug/XamlC.stamp
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/MvvmHelpers.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Plugin.Settings.dll
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/MvvmHelpers.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/MvvmHelpers.xml
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Plugin.Settings.pdb
+/Users/todd/source/misc/BringTheList/BringTheList.MacOS/bin/Debug/Plugin.Settings.xml

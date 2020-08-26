@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/hHQnG9LRXMJZ/j9GIOYCb9VybRSIxNpcI6K3jdEOt2LTSoyI8jhW1O6XQQiyH8FUfgruTH90QFFZ76PjNUuA==",
+  "success": true,
+  "projectFilePath": "/Users/todd/source/misc/BringTheList/BringTheList.UITests/BringTheList.UITests.csproj",
+  "expectedPackageFiles": [
+    "/Users/todd/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
+    "/Users/todd/.nuget/packages/xamarin.uitest/3.0.5/xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

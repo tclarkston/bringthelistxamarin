@@ -1,0 +1,15 @@
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/BringTheList.deps.json
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/BringTheList.dll
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/ref/BringTheList.dll
+/Users/todd/source/misc/BringTheList/BringTheList/bin/Debug/netstandard2.0/BringTheList.pdb
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.AssemblyInfoInputs.cache
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.AssemblyInfo.cs
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.csproj.CoreCompileInputs.cache
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.dll
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/ref/BringTheList.dll
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.pdb
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
+/Users/todd/source/misc/BringTheList/BringTheList/obj/Debug/netstandard2.0/BringTheList.csprojAssemblyReference.cache
