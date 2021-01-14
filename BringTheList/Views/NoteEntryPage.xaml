@@ -12,14 +12,16 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
             <Button Text="Save"
                     Clicked="OnSaveButtonClicked" />
             <Button Grid.Column="1"
                     Text="Delete"
                     Clicked="OnDeleteButtonClicked"/>
-            <Button Grid.Row="1" Text="Upload"
+            <Button Grid.Row="1" Text="Pick Image"
                     Clicked="OnUploadClicked" />
         </Grid>
+        <Image Source="{Binding ImagePath}" WidthRequest="200" HeightRequest="200" Grid.Row="2" x:Name="resultImage" />
     </StackLayout>
 </ContentPage>
