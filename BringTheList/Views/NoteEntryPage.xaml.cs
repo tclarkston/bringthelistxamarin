@@ -19,7 +19,7 @@ namespace BringTheList.Views
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-            
+
             if (string.IsNullOrWhiteSpace(note.Filename))
             {
                 // Save
@@ -63,37 +63,24 @@ namespace BringTheList.Views
 
         async void OnUploadClicked(object sender, EventArgs e)
         {
-            var result = await FilePicker.PickAsync(new PickOptions
-            {
-                FileTypes = FilePickerFileType.Images,
-                PickerTitle = "Pick an Image"
-            });
+            var platform = DeviceInfo.Platform;
 
-            if (result != null)
+            if (platform != DevicePlatform.Unknown)
             {
+                // FilePicker doesn't work on this WPF Project
+                var result = await FilePicker.PickAsync(new PickOptions
+                {
+                    FileTypes = FilePickerFileType.Images,
+                    PickerTitle = "Pick an Image"
+                });
+
+                if (result != null)
+                {
                     //save the stream to a service
                     imagePath = result.FullPath;
                     resultImage.Source = imagePath;
-            }
-
-#if __IOS__
- var dlg = NSOpenPanel.OpenPanel;
-            dlg.CanChooseFiles = true;
-            dlg.CanChooseDirectories = false;
-            dlg.AllowedFileTypes = new string[] { "txt", "html", "md", "css" };
-
-            if (dlg.RunModal() == 1)
-            {
-                // Nab the first file
-                var url = dlg.Urls[0];
-
-                if (url != null)
-                {
-                    //Do something with the file
-
                 }
             }
-#endif
         }
     }
 }
