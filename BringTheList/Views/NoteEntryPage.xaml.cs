@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using AppKit;
 using BringTheList.Models;
 using Xamarin.Forms;
 
@@ -46,24 +45,9 @@ namespace BringTheList.Views
 
         void OnUploadClicked(object sender, EventArgs e)
         {
-#if __MACOS__
-            var dlg = NSOpenPanel.OpenPanel;
-            dlg.CanChooseFiles = true;
-            dlg.CanChooseDirectories = false;
-            dlg.AllowedFileTypes = new string[] { "txt", "html", "md", "css" };
 
-            if (dlg.RunModal() == 1)
-            {
-                // Nab the first file
-                var url = dlg.Urls[0];
 
-                if (url != null)
-                {
-                    //Do something with the file
 
-                }
-            }
-#endif
 
 #if __IOS__
  var dlg = NSOpenPanel.OpenPanel;
@@ -86,3 +70,4 @@ namespace BringTheList.Views
         }
     }
 }
+

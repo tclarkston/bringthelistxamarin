@@ -4,6 +4,7 @@
              x:Class="BringTheList.Views.NoteEntryPage"
              Title="Note Entry">
     <StackLayout Margin="20">
+        <Label Text="NoteEntryPage"></Label>
         <Editor Placeholder="Enter your note"
                 Text="{Binding Text}"
                 HeightRequest="100" />

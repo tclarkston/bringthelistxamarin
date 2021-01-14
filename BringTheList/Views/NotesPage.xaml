@@ -7,14 +7,18 @@
         <ToolbarItem Text="+"
                      Clicked="OnNoteAddedClicked" />
     </ContentPage.ToolbarItems>
-    <ListView x:Name="listView"
+    <StackLayout>
+        <Label Text="NotesPage"></Label>
+
+        <ListView x:Name="listView"
               Margin="20"
               ItemSelected="OnListViewItemSelected">
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <TextCell Text="{Binding Text}"
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Text}"
                           Detail="{Binding Date}" />
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
 </ContentPage>

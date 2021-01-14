@@ -3,3 +3,16 @@
 ################################################################################
 
 /BringTheList/obj
+/.vs/BringTheList
+/BringTheList/bin/Debug/netstandard2.0
+/BringTheList.Android/bin/Debug
+/BringTheList.Android/obj
+/BringTheList.iOS/bin/iPhoneSimulator/Debug
+/BringTheList.iOS/obj
+/BringTheList.MacOS/bin/Debug
+/BringTheList.MacOS/obj/Debug
+/BringTheList.UWP/bin
+/BringTheList.UWP/obj
+/BringTheList.WPF/bin/Debug
+/BringTheList.WPF/obj/Debug
+/packages
